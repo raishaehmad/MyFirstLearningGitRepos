@@ -1,3 +1,5 @@
+package com.company;
+
 public class CWH_12_PS_Q5
 {
     public static void main(String[] args)

@@ -1,6 +1,6 @@
 package com.company;
 
-public class CWH_012_PS_Q2
+public class CWH_12_PS_Q2
 {
     public static void main(String[] args)
     {
