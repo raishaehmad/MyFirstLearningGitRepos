@@ -26,7 +26,7 @@ public class CWH_05_TakingInput
         //boolean b1 = sc.hasNextInt();
         //System.out.println(b1);
         //String s = sc.next(); // this sc.next() reads only one word
-        String s = sc.nextLine(); // this reads line
-        System.out.println(s);
+        //String s = sc.nextLine(); // this reads line
+        //System.out.println(s);
     }
 }
